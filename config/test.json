@@ -1,0 +1,15 @@
+{
+  "rpcNodeUrl": "http://seed1t5.neo.org:20332",
+  "networkMagic": 894710606,
+  "bneoScriptHash": "0x85deac50febfd93988d3f391dea54e8289e43e9e",
+  "btcScriptHash": "0x9b9f7db02c0a2d6aa5ad9be7bba843027bf5b5f2",
+  "flmScriptHash": "0x5b53998b399d10cd25727269e865acc785ef5c1a",
+  "flundScriptHash": "0x3d0085f442ead25ff3a7507c8eaa27cc8623a6be",
+  "fusdScriptHash": "0xbd3ce0c65e4bf362c75ec9a814619f8e1725d18f",
+  "fusdtScriptHash": "0xa2d5f4378c42d118ebc7e1690f9478d3e00aefa1",
+  "priceFeedScriptHash": "0x0dbebdcd92b08499ed89f497096b569c391fe5c4",
+  "swapFactoryScriptHash": "0x52bf47559436d3572a9b1cb83c056dc39cb42d0d",
+  "vaultScriptHash": "0x54fc620196ddb20a5aee59aaea97c8fcd67dd4a9",
+  "feedSigner": "03e266309bfd20ca05e50e19910ddcc7a1192114642cfabd7f8bdd09044dac49b7",
+  "dryRun": true
+}
